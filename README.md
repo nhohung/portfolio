@@ -9,7 +9,7 @@ I am Hung, a geophysicist with a strong interest to apply data science and machi
 
 I used to work in the Oil and Gas industry as a seismic attribute analyst for 3 years before pursuing a graduate study program in 2012. In 2017, during my internship, I met a genius mathematician named Anton. After reviewing my neural network to predict reservoir properties, he suggested me take some advanced courses about Machine learning. I started my first Machine learning course on Coursera (Stanford University) in October 2017. Upon completion, I just loved it and decided to take the more comprehensive specializations: Deep learning (deeplearning.ai), Data science (Johns Hopkins University) and Advance Data science (IBM). Along with writing up my PhD thesis, I have carried out the study. In the summer 2018, I have been so self proud of completing these specializations.
 
-At the end of the year, I have graduated from the University of Alberta with an accepted offer to work in a geoscience service company in the UK. I took the first 3 months of 2019 to travel and started working since April. Inspite of the gloomy sky and endless rain, I have established a new method for seismic data QC using machine learning. The method is presented internally and will be public next month if the conference is not delay by the Covid-19 (for those who read this in the future: yes, we were having a hard time back then with the coronavirus).
+At the end of the year, I have graduated from the University of Alberta with an accepted offer to work in a geoscience service company in the UK. I took the first 3 months of 2019 to travel and started working since April. Inspite of the gloomy sky and endless rain, I have established a new method for seismic data QC using machine learning. The method is presented internally and will be public next month if the conference is not delayed by the Covid-19 (for those who read this in the future: yes, we were having a hard time back then with the coronavirus).
 
 I still keep looking for more Data sicence courses to self study in the evening. Currently, I’m pursuing the Applied data science with Python by University of Michigan). My plan is to finish this specialization and move back, dig deeper into Deep Learning and AI.
 
@@ -25,7 +25,7 @@ In this project I find the living condition similarity between the most 358 popu
 https://github.com/nhohung/CityLivabilityClustering
 
 ## Weather forecast
-This is a small app showing weather forecast for my 2 interested cities: Hanoi (Vietnam) and Crawley (UK). Hanoi is where my family live, and Cralwey is my resident city. The app involves collecting, organizing and representing the json files returned from api calls to a preferred weather provider. It is made to display on phone screens with minimalistic but informative style. Try it out here:
+This is a small web app showing weather forecast for my 2 interested cities: Hanoi (Vietnam) and Crawley (UK). Hanoi is where my family live, and Cralwey is my resident city. The app involves collecting, organizing and representing the json files returned from api calls to a preferred weather provider. It is made to display on phone screens with minimalistic but informative style. Try it out here:
 
 https://nhohung.shinyapps.io/Weather1/
 
